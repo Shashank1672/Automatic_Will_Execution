@@ -1,0 +1,8 @@
+
+============================================================== BLOCKCHAIN MINI PROJECT ========================================================
+
+1. Create a new WILL
+2. Certify the person as dead
+3. Get the record of all the created wills
+4. Check the Smart Contract balance
+5. Check whether the address is dead
